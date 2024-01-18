@@ -6,4 +6,4 @@ Este é um projeto simples de um cronômetro desenvolvida usando HTML, CSS e Jav
 
 ## Acesse o projeto finalizado, online
 
-### -> [Timer.Js](https://gustavo-sales.github.io/Lista-de-Compras/)
+### -> [Timer.Js](https://gustavo-sales.github.io/Timer.js/)
