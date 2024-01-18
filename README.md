@@ -2,7 +2,7 @@
  
 Este é um projeto simples de um cronômetro desenvolvida usando HTML, CSS e JavaScript, utilizando o objeto Date.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](.github\preview.png)
 
 ## Acesse o projeto finalizado, online
 
